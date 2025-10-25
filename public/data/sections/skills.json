@@ -1,0 +1,207 @@
+{
+  "locales": {
+    "en": {
+      "title": "Skills",
+      "title_long_prefix": "Explore",
+      "title_long": "My **Skill Set**"
+    }
+  },
+  "articles": [
+    {
+      "id": "qa_hard_skills",
+      "component": "ArticleList",
+      "config": {},
+      "locales": {
+        "en": {
+          "title": "Hard Skills"
+        }
+      },
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-vials",
+            "faColors": {
+              "bg": "#4B70E2",
+              "fill": "#FFF"
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "Manual / Automation Testing",
+              "info": "Integrate automation into CI/CD pipelines (Jenkins, GitHub Actions)."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-code",
+            "faColors": {
+              "bg": "#E67E22",
+              "fill": "#FFF"
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "API & Database Testing",
+              "info": "Use Postman for API testing and write SQL queries to verify backend data."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-bug",
+            "faColors": {
+              "bg": "#E74C3C",
+              "fill": "#FFF"
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "Error Management",
+              "info": "Proficient in tools like Jira to log, track, and report bugs with detailed reproduction steps, severity, and priority."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-diagram-project",
+            "faColors": {
+              "bg": "#2ECC71",
+              "fill": "#FFF"
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "SDLC / STLC Understanding",
+              "info": "Master software development and testing lifecycles (Agile/Scrum) to integrate QA early in the process."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "soft_skills",
+      "component": "ArticleList",
+      "config": {},
+      "locales": {
+        "en": {
+          "title": "Soft Skills"
+        }
+      },
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-brain",
+            "faColors": {
+              "bg": "#9B59B6",
+              "fill": "#FFF"
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "Analytical Thinking",
+              "info": "Ability to evaluate complex systems and find logical solutions effectively."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-magnifying-glass",
+            "faColors": {
+              "bg": "#2980B9",
+              "fill": "#FFF"
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "Attention to Detail",
+              "info": "Thorough in checking and identifying even small issues before release."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-comments",
+            "faColors": {
+              "bg": "#16A085",
+              "fill": "#FFF"
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "Effective Communication",
+              "info": "Clearly expresses ideas and collaborates efficiently with team members."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-clock",
+            "faColors": {
+              "bg": "#F1C40F",
+              "fill": "#111"
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "Time Management",
+              "info": "Efficiently organizes and prioritizes tasks to meet project deadlines."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "languages",
+      "component": "ArticleList",
+      "config": {},
+      "locales": {
+        "en": {
+          "title": "Languages"
+        }
+      },
+      "items": [
+        {
+          "icon": {
+            "img": "images/flags/vn.png",
+            "fa": null,
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "Vietnamese – Native",
+              "info": "Native speaker with excellent communication and writing skills."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/flags/en.png",
+            "fa": null,
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "English – Intermediate",
+              "info": "Intermediate proficiency in English language; can hold conversations and understand written text."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

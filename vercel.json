@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "src": "/react-portfolio-template/assets/(.*)",
+            "dest": "/dist/assets/$1"
+        },
+        {
+            "src": "/react-portfolio-template/(.*)",
+            "dest": "/dist/$1"
+        }
+    ]
+}

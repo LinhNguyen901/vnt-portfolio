@@ -1,0 +1,67 @@
+{
+  "locales": {
+    "en": {
+      "title": "Educational / Certificate",
+      "title_long_prefix": "Explore",
+      "title_long": "My **Educational & Certificate Background**"
+    }
+  },
+  "articles": [
+    {
+      "id": "education_background",
+      "component": "ArticleList",
+      "config": {},
+      "locales": {
+        "en": {
+          "title": "Educational Background"
+        }
+      },
+      "items": [
+        {
+          "icon": {
+            "img": "images/pictures/place-19.png",
+            "fa": "fa-solid fa-user-graduate",
+            "faColors": {
+              "bg": "#4B70E2",
+              "fill": "#FFF"
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "Ho Chi Minh City University of Technology (HUTECH)",
+              "info": "Completed Bachelor of Engineering."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "certificates",
+      "component": "ArticleList",
+      "config": {},
+      "locales": {
+        "en": {
+          "title": "Certificates"
+        }
+      },
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-certificate",
+            "faColors": {
+              "bg": "#2ECC71",
+              "fill": "#FFF"
+            }
+          },
+          "locales": {
+            "en": {
+              "title": "Fullstack Selenium in Java",
+              "info": "Learned to analyze requirements and design automated scripts for web application projects. Integrated Database Testing (SQL Server / MySQL / etc.) with Selenium frameworks. Experienced in analyzing, designing, and writing automated test scripts across projects in Banking, eCommerce, Automotive, and Wordpress domains."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

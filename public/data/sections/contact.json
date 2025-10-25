@@ -1,0 +1,46 @@
+{
+    "locales": {
+        "en": {
+            "title": "Contact",
+            "title_long_prefix": "Don't hesitate to",
+            "title_long": "**Contact** Me"
+        },
+        "es": {
+            "title": "Contacto",
+            "title_long_prefix": "No dudes en",
+            "title_long": "**Contácta**me"
+        },
+        "fr": {
+            "title": "Contact",
+            "title_long_prefix": "N'hésitez pas à",
+            "title_long": "Me **Contacter**"
+        },
+        "ko": {
+            "title": "연락처",
+            "title_long_prefix": "주저하지 말고",
+            "title_long": "**연락** 주세요"
+        }
+    },
+    "articles": [
+        {
+            "id": "contact_form",
+            "component": "ArticleContactForm",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Send me a **message**"
+                },
+                "es": {
+                    "title": "Envíame un **mensaje**"
+                },
+                "fr": {
+                    "title": "Envoyez-moi un **message**"
+                },
+                "ko": {
+                    "title": "**메시지를** 보내주세요"
+                }
+            },
+            "items": null
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+  "locales": {
+    "en": {
+      "title": "Experience",
+      "title_long_prefix": "Summary of my",
+      "title_long": "**Work** Experience"
+    }
+  },
+  "articles": [
+    {
+      "id": "work_experience",
+      "component": "ArticleTimeline",
+      "config": {},
+      "items": [
+        {
+          "icon": {
+            "img": "images/pictures/place-17.png",
+            "fa": "",
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "dates": {
+            "start": "08/01/2022",
+            "end": "Present"
+          },
+          "locales": {
+            "en": {
+              "title": "**QA Engineer**",
+              "info": "BC Card Viet Nam · Full-time · On-site · Ho Chi Minh City, Vietnam",
+              "text": "<p><b>Job Description:</b></p><ul><li>Analyze customer requirements and find optimal solutions.</li><li>Test and provide modified versions to customers until acceptance is achieved.</li><li>Certify EMV contact/contactless with Visa, MasterCard, and JCB.</li><li>Support customers with all BC Card products (TMS, SG, EDCC, POS App, HSM, NAC/NCC).</li><li>Prepare documentation such as installation guides and user manuals.</li><li>Install and operate all services for customers.</li><li>Conduct product training sessions for clients.</li><li>Coordinate with software development teams for special case testing.</li><li>Manage and operate several banking services.</li><li>Oversee BC Card Vietnam’s data center and network systems.</li><li>Develop new hardware and software products for BC Card.</li></ul><p><b>Key Achievements:</b></p><ul><li>Worked in a professional international environment.</li><li>Developed <b>Hardware Service Management Application (HSMA)</b> for managing customer service operations.</li><li>Participated in POS application projects for clients such as <b>SGB, Vietcombank, and Sacombank</b>.</li><li>Contributed to multiple bank card system projects.</li></ul>"
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/place-18.png",
+            "fa": "",
+            "faColors": {
+              "bg": null,
+              "fill": null
+            }
+          },
+          "dates": {
+            "start": "01/01/2022",
+            "end": "08/01/2022"
+          },
+          "locales": {
+            "en": {
+              "title": "**QA/QC Engineer**",
+              "info": "TMA Solutions · Full-time · Hybrid · Ho Chi Minh City, Vietnam",
+              "text": "<p><b>Job Description:</b></p><ul><li>Wrote test plans, estimated time and resources based on project scope, and defined testing environments.</li><li>Created and executed detailed test cases.</li><li>Logged, verified, and tracked bugs until resolution.</li><li>Led weekly team meetings to review goals and achievements.</li><li>Reported testing progress and issues to senior management.</li></ul>"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
