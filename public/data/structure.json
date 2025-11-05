@@ -29,6 +29,18 @@
       "categoryId": "more",
       "jsonPath": "/data/sections/myGallery.json",
       "faIcon": "fa-solid fa-images"
+    },
+    {
+      "id": "portfolio",
+      "categoryId": "showcase",
+      "jsonPath": "/data/sections/portfolio.json",
+      "faIcon": "fa-solid fa-folder-open"
+    },
+    {
+      "id": "cv",
+      "categoryId": "more",
+      "jsonPath": "/data/sections/coverLetter.json",
+      "faIcon": "fa-solid fa-paper-plane"
     }
   ],
   "categories": [

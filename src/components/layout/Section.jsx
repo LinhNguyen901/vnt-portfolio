@@ -24,6 +24,7 @@ import MyCV from '/src/components/widgets/MyCV';
 import { useScheduler } from '/src/helpers/scheduler.js';
 import { useData } from '/src/providers/DataProvider.jsx';
 import { useWindow } from '/src/providers/WindowProvider.jsx';
+import ArticlePortfolio from '../articles/ArticlePortfolio';
 
 const TransitionClasses = {
   HIDDEN: 'section-transition-hidden',
@@ -46,6 +47,7 @@ const ARTICLES = {
   ImageGallery,
   MyCV,
   VersionHistory,
+  ArticlePortfolio,
 };
 
 const utils = useUtils();
